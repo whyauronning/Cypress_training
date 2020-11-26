@@ -1,2 +1,2 @@
 # Cypress_training
-CypressTasks
+  *in this repo you can find simple one examples of Cypress possibilities 
